@@ -1,0 +1,40 @@
+form {
+  justify-content: center;
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.cards2{
+  display: flex;
+  padding-right: 2rem;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+.carteirinha2 {
+  background-color: #535151;
+  padding: 1.5rem;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  border-radius: 1rem;
+  margin-bottom: 20rem;
+  margin-right: 2rem;
+  color: #fff;
+}
+
+.carteirinha2 h2, h3, h4, p {
+  text-align: center;
+  padding-bottom: 0.75rem;
+}
+
+.carteirinha2 img {
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.75rem;
+  border-radius: 0.5rem;
+}
+
+input {
+  padding-bottom: 0.1rem;
+  margin-bottom: 0.5rem;
+}

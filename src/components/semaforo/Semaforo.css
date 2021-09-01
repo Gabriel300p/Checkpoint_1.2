@@ -1,0 +1,13 @@
+button {
+  padding: 1.5rem;
+  margin-left: 1rem;
+  margin-top: 2rem;
+  font-size: 1rem;
+  background-color: #535151;
+  color: #fff;
+}
+
+.botao {
+  text-align: center;
+  align-items: center;
+}

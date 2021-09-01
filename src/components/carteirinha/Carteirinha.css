@@ -1,0 +1,28 @@
+.cards{
+  display: flex;
+  padding-right: 2rem;
+  justify-content: center;
+}
+
+.carteirinha {
+  background-color: #535151;
+  padding: 1.5rem;
+  padding-left: 2.5rem;
+  padding-right: 2.5rem;
+  border-radius: 1rem;
+  margin-top: 2rem;
+  margin-right: 2rem;
+  color: #fff;
+}
+
+.carteirinha h2, h3, p {
+  text-align: center;
+  padding-bottom: 0.75rem;
+}
+
+.carteirinha img {
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.75rem;
+  border-radius: 0.5rem;
+}

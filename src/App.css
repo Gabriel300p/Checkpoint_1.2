@@ -1,11 +1,6 @@
-#pare {
-  color: #ff0000;
-}
-
-#atencao {
-  color: #ffff00; 
-}
-
-#siga {
-  color: #008000;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
 }
